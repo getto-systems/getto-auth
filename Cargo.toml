@@ -1,0 +1,6 @@
+[package]
+name = "getto-auth"
+version = "0.1.0"
+authors = ["shun"]
+
+[dependencies]
